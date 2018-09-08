@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# .gitattributes
+.gitattributes
+
+linkedin-logo-vector-download-400x400.jpg
+
+udacity-logo-blue.png
+
+README.ipynb
+
+
