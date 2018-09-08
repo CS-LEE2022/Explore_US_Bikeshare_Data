@@ -41,7 +41,6 @@ If you visit these pages, you will notice that each city has a different way of 
 ![](https://img.shields.io/badge/platform-ios-green.svg?colorA=abcdef)
 
 
-- DB Browser for SQLite
 - Python 3.6.3
 - Jupyter Notebook
 - Anaconda-Navigator
@@ -68,7 +67,7 @@ If you visit these pages, you will notice that each city has a different way of 
 - **_Visualization_**
 
 
-    - In this project, Python is the main tool used to explore data related to bikeshare systems for three major bikeshare systems in the United States as well as perform data wrangling to unify the format of data from the three systems and write code to compute descriptive statistics. External packages beyond Python library are introducted to help visualizing the data.
+    - In this project, Python is the main tool used to explore data related to bikeshare systems for three major bikeshare systems in the United States as well as perform data wrangling to unify the format of data from the three systems and write code to compute descriptive statistics. External packages beyond Python library are introduced to help visualizing the data.
     
     
     <a id='Conclusions'></a>
