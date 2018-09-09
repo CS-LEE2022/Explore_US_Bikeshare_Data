@@ -22,7 +22,7 @@ In this project, we will focus on the record of individual trips taken in 2016 f
 If you visit these pages, you will notice that each city has a different way of delivering its data. Chicago updates with new data twice a year, Washington DC is quarterly, and New York City is monthly.
 
 
-![alt text](https://www.myporec.com/uploads/imgcache/large/articles/_bike_share_porec_4a.jpg)
+![alt text](https://images.pexels.com/photos/34646/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 
 | Table of Contents |
