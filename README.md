@@ -25,6 +25,9 @@ If you visit these pages, you will notice that each city has a different way of 
 ![alt text](https://images.pexels.com/photos/34646/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 
+Image is based on https://www.pexels.com/royalty-free-images/, from which all images can be used for free.
+
+
 | Table of Contents |
 | :--- |
 | <a href='#Prerequisites'> Prerequisites </a> 🔍📜 | 
